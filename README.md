@@ -63,5 +63,4 @@ To find plugins visit this site - [vimawesome](https://vimawesome.com/).
 ## Other
 
 * [Trick in Vim](./tricks.md)
-
-
+* [sample config file](./.vimrc)
