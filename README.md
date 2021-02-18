@@ -42,10 +42,10 @@ Like other editors vim has plugins too, and either you can manage them manually 
 
 Using plugin manager is better, so here are some top plugion managers.
 
-* Vundle [github repo](https://github.com/VundleVim/Vundle.vim) 
-* VimPlug [github repo](https://github.com/junegunn/vim-plug)
-* Pathogen [github repo](https://github.com/tpope/vim-pathogen)
-* Neobundle [github repo](https://github.com/Shougo/neobundle.vim)
+* Vundle [github repo](https://github.com/VundleVim/Vundle.vim) ![stars](https://img.shields.io/github/stars/VundleVim/Vundle.vim?style=social)
+* VimPlug [github repo](https://github.com/junegunn/vim-plug) ![stars](https://img.shields.io/github/stars/junegunn/vim-plug?style=social)
+* Pathogen [github repo](https://github.com/tpope/vim-pathogen) ![stars](https://img.shields.io/github/stars/tpope/vim-pathogen?style=social)
+* Neobundle [github repo](https://github.com/Shougo/neobundle.vim) ![stars](https://img.shields.io/github/stars/Shougo/neobundle.vim?style=social)
 
 Just vist there github repo and use the one you like. After installing any plugin manager you basically have to just add names of plugins in the `.vimrc` file between two lines, vaguely some `#start` and `#end` lines, as described in the setup of the plugin manager you are using.
 
